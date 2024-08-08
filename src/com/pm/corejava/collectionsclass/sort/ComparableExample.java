@@ -1,4 +1,4 @@
-package com.pm.corejava.sort;
+package com.pm.corejava.collectionsclass.sort;
 
 public class ComparableExample implements Comparable<ComparableExample> {
 

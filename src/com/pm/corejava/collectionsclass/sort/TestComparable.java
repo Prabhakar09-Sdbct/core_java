@@ -1,4 +1,4 @@
-package com.pm.corejava.sort;
+package com.pm.corejava.collectionsclass.sort;
 
 import java.util.ArrayList;
 import java.util.Collections;
